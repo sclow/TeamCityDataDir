@@ -1,0 +1,35 @@
+<root>
+  <page path="/admin/createObjectMenu.html">
+    <usage userId="1" timestamp="1677586884729" />
+  </page>
+  <page path="/admin/createProject.html">
+    <usage userId="1" timestamp="1677586904574" />
+  </page>
+  <page path="/agentDetails.html?tab=agentSummary">
+    <usage userId="1" timestamp="1677586831657" />
+  </page>
+  <page path="/bsout.html">
+    <usage userId="1" timestamp="1677586831596" />
+  </page>
+  <page path="/agentDetails.html?tab=agentParameters">
+    <usage userId="1" timestamp="1677586848194" />
+  </page>
+  <page path="/agentDetails.html?tab=agentCompatibleConfigurations">
+    <usage userId="1" timestamp="1677586875084" />
+  </page>
+  <page path="/favorite/projects">
+    <usage userId="1" timestamp="1677586916649" />
+  </page>
+  <page path="/admin/admin.html">
+    <usage userId="1" timestamp="1677586430688" />
+  </page>
+  <page path="/admin/createObjectFromUrl.html">
+    <usage userId="1" timestamp="1677586910009" />
+  </page>
+  <page path="/agentDetails.html?tab=agentBuildRunners">
+    <usage userId="1" timestamp="1677586839557" />
+  </page>
+  <page path="/agentDetails.html?tab=agentLogs">
+    <usage userId="1" timestamp="1677586846390" />
+  </page>
+</root>
